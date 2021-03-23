@@ -1,0 +1,35 @@
+body{
+  background-color: white;
+  padding: 50px 50px;
+}
+.center{
+  text-align: center;
+}
+/* navbar */
+.auto{
+  margin-left: auto;
+}
+/* top section */
+.image-size{
+  width: 200px;
+  border-radius: 100%;
+  margin-left: 30rem;
+}
+.top-section{
+background-color: blue;
+padding: 50px 50px;
+}
+
+/* second section */
+.middle-section{
+  background-color: green;
+  padding: 50px 50px;
+  margin-top: 10px;
+
+}
+ /* third section */
+ .bottom-section{
+   background-color: red;
+   padding: 50px 50px;
+   margin-top: 10px;
+ }
